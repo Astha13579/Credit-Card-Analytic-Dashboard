@@ -244,19 +244,20 @@ The weekly dashboard supports the analysis of changes in financial performance o
 
 ---
 
-## 🖼️ Dashboard Preview
+
+## Power BI Dashboard Preview
 
 ### 1. Credit Card Transaction Report
 
-![Credit Card Transaction Report](images/transaction_report.png)
+![Credit Card Transaction Dashboard](dashboard_overview.jpeg)
 
-### 2. Credit Card Customer Report
+### 2. Credit Card Transaction Analysis
 
-![Credit Card Customer Report](images/customer_report.png)
+![Credit Card Transaction Analysis](dashboard_transaction.jpeg)
 
-### 3. Weekly Financial Analysis
+### 3. Credit Card Customer Report
 
-![Weekly Financial Analysis](images/weekly_analysis.png)
+![Credit Card Customer Dashboard](dashboard_customer.jpeg)
 
 > Add your actual Power BI screenshots to the `images` folder using the filenames specified above.
 
