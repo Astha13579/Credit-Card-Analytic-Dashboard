@@ -380,7 +380,7 @@ Potential future improvements include:
 
 **Astha**
 
-GitHub: [Astha13579](https://github.com/Astha13579)
+[Astha13579](https://github.com/Astha13579)
 
 ---
 
